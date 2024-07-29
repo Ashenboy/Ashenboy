@@ -39,9 +39,9 @@
 
 <h3>🔵💠Profile views💠🔵</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{ashenboy}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{ashenboy}/count.svg) -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true) -->
+![](https://komarev.com/ghpvc/?username=Ashenboy&abbreviated=true)
 
 <h3>🔵💠VS Code work hours💠🔵</h3>
 
@@ -111,7 +111,7 @@
 
 <p>🔹Profile 3D Contributions🔹</p>
 
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -161,8 +161,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 </div>
 <!-- <div>
-  <div width="100%" align="center"><a href="https://github.com/gmpsankalpa/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gmpsankalpa/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-  <div width="100%" align="center"><a href="https://github.com/gmpsankalpa/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gmpsankalpa/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <div width="100%" align="center"><a href="https://github.com/Ashenboy/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+  <div width="100%" align="center"><a href="https://github.com/Ashenboy/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div> -->
@@ -217,23 +217,26 @@ Feel free to reach out to me on different platforms.<br>
 </p> -->
 
 <!-- 💰 Donation Section -->
-<h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" alt="💸" width="35" height="35"> You can help me by Donating:</h2>
+<!-- <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" alt="💸" width="35" height="35"> You can help me by Donating:</h2>
 
 <p align="center">
   Support my work by buying me a coffee! ☕<br>
-  <a href="https://buymeacoffee.com/gmpsankalpa" target="_blank">
+  <a href="https://buymeacoffee.com/Ashenboy" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
+</p> -->
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated gif">
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Greeting Section -->
 <h4 align="center">
   𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br>
   𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
-  <br><img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
+  <br><br><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW85dmZwYzdqbXB6cHlseHJ1d3hsYXY3ZnBlcHU3bHRhcXh5cXZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSR4F54XaEDvLp5iAE/giphy.webp" width="230px">
 </h4>
 
 ---
@@ -245,10 +248,10 @@ Feel free to reach out to me on different platforms.<br>
 
 <div align="center">
 
-   ![repo size](https://img.shields.io/github/repo-size/gmpsankalpa/gmpsankalpa?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-   ![GitHub forks](https://img.shields.io/github/forks/gmpsankalpa/gmpsankalpa?&labelColor=black&color=0fb9b1&style=for-the-badge)
-   ![GitHub stars](https://img.shields.io/github/stars/gmpsankalpa/gmpsankalpa?&labelColor=black&color=f7b731&style=for-the-badge)
-   ![GitHub LastCommit](https://img.shields.io/github/last-commit/gmpsankalpa/gmpsankalpa?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+   ![repo size](https://img.shields.io/github/repo-size/Ashenboy/Ashenboy?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+   ![GitHub forks](https://img.shields.io/github/forks/Ashenboy/Ashenboy?&labelColor=black&color=0fb9b1&style=for-the-badge)
+   ![GitHub stars](https://img.shields.io/github/stars/Ashenboy/Ashenboy?&labelColor=black&color=f7b731&style=for-the-badge)
+   ![GitHub LastCommit](https://img.shields.io/github/last-commit/Ashenboy/Ashenboy?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
 
@@ -260,9 +263,9 @@ Feel free to reach out to me on different platforms.<br>
 
 <div align="center">
 
-[![pages-build-deployment](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment)
-[![Generate Snake](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/snake.yml/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/snake.yml)
-[![GitHub-Profile-3D-Contrib](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/profile-3d.yml)
+[![pages-build-deployment](https://github.com/Ashenboy/Ashenboy/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ashenboy/Ashenboy/actions/workflows/pages/pages-build-deployment)
+[![Generate Snake](https://github.com/Ashenboy/Ashenboy/actions/workflows/snake.yml/badge.svg)](https://github.com/Ashenboy/Ashenboy/actions/workflows/snake.yml)
+[![GitHub-Profile-3D-Contrib](https://github.com/Ashenboy/Ashenboy/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Ashenboy/Ashenboy/actions/workflows/profile-3d.yml)
 
 </div>
 
