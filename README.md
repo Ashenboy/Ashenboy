@@ -120,10 +120,10 @@
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashenboy&theme=radical&hide_border=false" /> </p>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashenboy&theme=radical"/>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashenboy&theme=radical"/> </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ashenboy&theme=radical&show_icons=true&hide_border=false&count_private=true" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenboy&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashenboy&theme=radical"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenboy&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashenboy&theme=radical"/> </p>
 </div>
 <br>
 <div align="center">
